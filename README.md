@@ -20,10 +20,10 @@ Hello! I am Bhavya, a passionate developer with experience in HTML and CSS. I en
 - **Technologies:** HTML, CSS
 - **Repository:** [Portfolio Website](https://github.com/bhavyatiwari1/Bhavya-dev-portfolio)
 
-### Project 2: Another Project
-- **Description:** A brief description of another project.
-- **Technologies:** HTML, CSS
-- **Repository:** [Another Project](#)
+### Project 2: Weatherly
+- **Description:** this project is gives the real time weather updates by using openWeather API.
+- **Technologies:** HTML, CSS ,Javascript
+- **Repository:** [Weatherly project](https://github.com/bhavyatiwari1/weatherly)
 
 ## Skills
 
@@ -34,7 +34,7 @@ Hello! I am Bhavya, a passionate developer with experience in HTML and CSS. I en
 
 ## Contact
 
-Feel free to reach out to me via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+Feel free to reach out to me via [email](mailto:bhavyatiwari201@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bhavya-tiwari-939212224/).
 
 ---
 

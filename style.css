@@ -440,20 +440,20 @@ a{
 }
 
 #project1{
-    background-image: url(img/Screenshot\ 2024-06-02\ 124336.png);
+    background-image: url(img/Screenshot\ 2025-06-09\ 001205.png);
 }
 #project2{
     margin-left: 120px;
-    background-image: url(img/Screenshot\ 2024-06-02\ 125223.png);
+    background-image: url(img/Screenshot\ 2025-06-09\ 001303.png);
 }
 #project3{
-    background-image: url(img/Screenshot\ 2025-03-03\ 205423.png);
+    background-image: url(img/Screenshot\ 2025-06-09\ 001022.png);
 }
 #project4{
     margin-left: 120px;
-    background-image: url(img/Screenshot\ 2024-06-02\ 133523.png);
+    background-image: url(img/Screenshot\ 2025-06-09\ 005509.png);
 }
-/*   @media (max-width:1300px) {
+  @media (max-width:1300px) {
     .page-header {
       padding-top: 30px;
       color: var(--bgOrange);
@@ -508,7 +508,7 @@ a{
     .project-card:hover .project-content {
       scale: 0.55;
     }
-  } */
+  }
 
   .skills-container{
     position:relative;

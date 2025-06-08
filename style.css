@@ -453,7 +453,7 @@ a{
     margin-left: 120px;
     background-image: url(img/Screenshot\ 2025-06-09\ 005509.png);
 }
-  @media (max-width:1300px) {
+/*   @media (max-width:1300px) {
     .page-header {
       padding-top: 30px;
       color: var(--bgOrange);
@@ -509,7 +509,7 @@ a{
       scale: 0.55;
     }
   }
-
+ */
   .skills-container{
     position:relative;
     display:flex;

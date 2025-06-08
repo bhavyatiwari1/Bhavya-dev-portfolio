@@ -166,6 +166,10 @@ a{
     position: relative;
 
 }
+.hire-me-link {
+  color: white; /* Change text color to white */
+  text-decoration: none; /* Optional: Remove underline */
+}
 .absolute{
     position: absolute;
 }
